@@ -1,8 +1,6 @@
 #C/C++ Experiment
-=====
 - SchoolACM —— SGU校园ACM实验
 #Copyright
-=====
 Author: Lai Jingwu(男版迪士尼)
 Email: admin@laijingwu.com
 Reference merely!
