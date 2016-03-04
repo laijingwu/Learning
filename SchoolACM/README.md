@@ -1,13 +1,19 @@
-# SCHOOL ACM
+# School ACM
 
-Latest: 2015-12-11 10:36
+## 介绍
 
-Author: Lai Jingwu(男版迪士尼)
+来自Shaoguan University (SGU) 信息科学与工程学院 ACM 平台的部分题目参考答案，答案已通过ACM平台验证。
 
-Email: admin@laijingwu.com
+最后更新：2015-12-11 10:36
 
-Reference merely!
+## 温馨提示
 
-Cannot be referenced without permission.
+请同学们自觉对待答案，不要完全抄袭代码。答案代码仅供参考！
 
-Copyright (C) 2015 laijingwu.com All Rights Reserved
+## 版权
+
+代码遵循 <u>GNU GPL 2</u> 协议进行开源，主要用于学习与交流。当然，您可以免费使用和引用、修改、衍生代码，但不允许修改后和衍生的代码做为闭源的商业软件发布和销售。
+
+Copyright (C) 2015-2016 laijingwu.com
+
+
