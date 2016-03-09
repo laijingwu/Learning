@@ -6,6 +6,7 @@
 - BlogDemo —— 博客主站配套代码Demo
 - Demo(Cpp) —— C++学习过程中的测试代码
 - CSharp/News —— SGU网园工作室第三次考核提交项目
+- Qt —— 自写的Qt实例
 
 ## Author Information
 
