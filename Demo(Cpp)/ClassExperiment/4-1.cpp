@@ -81,8 +81,8 @@ int main()
 	
 	cout << "sort by asc" << endl;
 	
-	for (int i = 0; i < n; i++)
-		p[i].display(); 
+	for (int j = 0; j < n; j++)
+		p[j].display(); 
 	
 	return 0;
 } 
